@@ -1,0 +1,2 @@
+Ticker,Company_Name,Sector,Quantity,Buy_Price,Current_Price,Total_Invested,Current_Value,Gain_Loss_Amount,Gain_Loss_Percent
+AAPL,Apple Inc.,Information Technology,10.0,150.0,180.0,1500.0,1800.0,300.0,20.0
